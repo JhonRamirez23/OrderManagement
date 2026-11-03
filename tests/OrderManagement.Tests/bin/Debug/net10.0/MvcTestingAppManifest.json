@@ -1,0 +1,6 @@
+{
+  "OrderManagement.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Familia Ramírez Angel\\Desarrollo de Software\\7. Cursos Jhon\\CursosAutodidactas\\fullstack\\POS\\PruebaSiesa\\src\\OrderManagement.Api",
+  "OrderManagement.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Familia Ramírez Angel\\Desarrollo de Software\\7. Cursos Jhon\\CursosAutodidactas\\fullstack\\POS\\PruebaSiesa\\src\\OrderManagement.Application",
+  "OrderManagement.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Familia Ramírez Angel\\Desarrollo de Software\\7. Cursos Jhon\\CursosAutodidactas\\fullstack\\POS\\PruebaSiesa\\src\\OrderManagement.Domain",
+  "OrderManagement.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Familia Ramírez Angel\\Desarrollo de Software\\7. Cursos Jhon\\CursosAutodidactas\\fullstack\\POS\\PruebaSiesa\\src\\OrderManagement.Infrastructure"
+}

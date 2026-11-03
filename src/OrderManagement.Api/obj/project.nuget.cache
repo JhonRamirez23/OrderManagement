@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "4QhUePdGY/g=",
+  "success": true,
+  "projectFilePath": "F:\\Familia Ramírez Angel\\Desarrollo de Software\\7. Cursos Jhon\\CursosAutodidactas\\fullstack\\POS\\PruebaSiesa\\src\\OrderManagement.Api\\OrderManagement.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhona\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.14\\microsoft.aspnetcore.openapi.10.0.14.nupkg.sha512",
+    "C:\\Users\\jhona\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\jhona\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512",
+    "C:\\Users\\jhona\\.nuget\\packages\\swashbuckle.aspnetcore\\10.1.5\\swashbuckle.aspnetcore.10.1.5.nupkg.sha512",
+    "C:\\Users\\jhona\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.5\\swashbuckle.aspnetcore.swagger.10.1.5.nupkg.sha512",
+    "C:\\Users\\jhona\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.5\\swashbuckle.aspnetcore.swaggergen.10.1.5.nupkg.sha512",
+    "C:\\Users\\jhona\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.5\\swashbuckle.aspnetcore.swaggerui.10.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

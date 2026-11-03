@@ -1,0 +1,17 @@
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Infrastructure\bin\Debug\net10.0\OrderManagement.Infrastructure.deps.json
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Infrastructure\bin\Debug\net10.0\OrderManagement.Infrastructure.dll
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Infrastructure\bin\Debug\net10.0\OrderManagement.Infrastructure.pdb
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Infrastructure\bin\Debug\net10.0\OrderManagement.Application.dll
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Infrastructure\bin\Debug\net10.0\OrderManagement.Domain.dll
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Infrastructure\bin\Debug\net10.0\OrderManagement.Application.pdb
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Infrastructure\bin\Debug\net10.0\OrderManagement.Domain.pdb
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Infrastructure\obj\Debug\net10.0\OrderManagement.Infrastructure.csproj.AssemblyReference.cache
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Infrastructure\obj\Debug\net10.0\OrderManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Infrastructure\obj\Debug\net10.0\OrderManagement.Infrastructure.AssemblyInfoInputs.cache
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Infrastructure\obj\Debug\net10.0\OrderManagement.Infrastructure.AssemblyInfo.cs
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Infrastructure\obj\Debug\net10.0\OrderManagement.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Infrastructure\obj\Debug\net10.0\OrderMan.FDF35C14.Up2Date
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Infrastructure\obj\Debug\net10.0\OrderManagement.Infrastructure.dll
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Infrastructure\obj\Debug\net10.0\refint\OrderManagement.Infrastructure.dll
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Infrastructure\obj\Debug\net10.0\OrderManagement.Infrastructure.pdb
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Infrastructure\obj\Debug\net10.0\ref\OrderManagement.Infrastructure.dll
