@@ -1,0 +1,11 @@
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Domain\bin\Debug\net10.0\OrderManagement.Domain.deps.json
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Domain\bin\Debug\net10.0\OrderManagement.Domain.dll
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Domain\bin\Debug\net10.0\OrderManagement.Domain.pdb
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Domain\obj\Debug\net10.0\OrderManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Domain\obj\Debug\net10.0\OrderManagement.Domain.AssemblyInfoInputs.cache
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Domain\obj\Debug\net10.0\OrderManagement.Domain.AssemblyInfo.cs
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Domain\obj\Debug\net10.0\OrderManagement.Domain.csproj.CoreCompileInputs.cache
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Domain\obj\Debug\net10.0\OrderManagement.Domain.dll
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Domain\obj\Debug\net10.0\refint\OrderManagement.Domain.dll
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Domain\obj\Debug\net10.0\OrderManagement.Domain.pdb
+F:\Familia Ramírez Angel\Desarrollo de Software\7. Cursos Jhon\CursosAutodidactas\fullstack\POS\PruebaSiesa\src\OrderManagement.Domain\obj\Debug\net10.0\ref\OrderManagement.Domain.dll
