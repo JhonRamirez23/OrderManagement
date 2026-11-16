@@ -2,7 +2,7 @@
 
 API REST para gestionar pedidos, validar inventario, procesar pagos simulados y notificar el resultado de la operación.
 
-La solución está implementada como una prueba técnica en .NET 10 y utiliza persistencia en memoria.
+La solución está implementada como una muestra en .NET 10, utilizando persistencia en memoria.
 
 ## Tecnologías
 
